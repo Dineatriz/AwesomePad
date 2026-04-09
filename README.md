@@ -18,6 +18,7 @@ This macropad was made and designed to help gamers who frequently use Discord an
 ## Case
 
 The case is 3D printed in 2 parts (Top + Bottom) and fits the PCB snugly with cutouts for all switches, the encoder, the OLED, knobs, and the USB-C port.
+
 ---
 
 ## BOM (Bill of Materials)
