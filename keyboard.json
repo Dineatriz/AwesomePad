@@ -1,0 +1,63 @@
+{
+    "manufacturer": "Stasis",
+    "keyboard_name": "stasis_macropad",
+    "maintainer": "dinis",
+    "bootloader": "caterina",
+    "processor": "atmega32u4",
+    "usb": {
+        "vid": "0x1B4F",
+        "pid": "0x9206",
+        "device_version": "1.0.0"
+    },
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": false,
+        "encoder": true,
+        "oled": true,
+        "rgblight": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["D3", "D4", "C6", "D7", "B4", "B5", "B6", "B7"]
+        ]
+    },
+    "encoder": {
+        "rotary": [
+            {"pin_a": "B2", "pin_b": "F7"},
+            {"pin_a": "F6", "pin_b": "F5"},
+            {"pin_a": "B3", "pin_b": "B1"}
+        ]
+    },
+    "rgblight": {
+        "led_count": 6,
+        "pin": "D2",
+        "animations": {
+            "breathing": true,
+            "static_light": true
+        }
+    },
+    "i2c": {
+        "driver": "i2cmaster"
+    },
+    "oled_driver": {
+        "i2c_address": "0x3C"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0, "label": "Mode Switch"},
+                {"matrix": [0, 1], "x": 1, "y": 0, "label": "SW1"},
+                {"matrix": [0, 2], "x": 2, "y": 0, "label": "SW2"},
+                {"matrix": [0, 3], "x": 3, "y": 0, "label": "SW3"},
+                {"matrix": [0, 4], "x": 0, "y": 1, "label": "SW4"},
+                {"matrix": [0, 5], "x": 1, "y": 1, "label": "SW5"},
+                {"matrix": [0, 6], "x": 2, "y": 1, "label": "SW6"},
+                {"matrix": [0, 7], "x": 3, "y": 1, "label": "PTT"}
+            ]
+        }
+    }
+}
