@@ -3,7 +3,7 @@
 
 ## Overview
 
-![Case](images/Case.png)
+![Case](Images/Case.png)
 
 This macropad was made and designed to help gamers who frequently use Discord and people who do livestreams. With 6 customizable switches, a 2U switch with push-to-talk functionality, 3 configurable knobs, and an OLED panel, it can do almost anything the user wants.
 
@@ -11,22 +11,22 @@ This macropad was made and designed to help gamers who frequently use Discord an
 
 ## Schematic
 
-![Schematic](images/schematics.png)
+![Schematic](Images/schematics.png)
 
 ---
 
 ## PCB
 
-![PCB_front](images/pcb_front.png)
-![PCB_back](images/pcb_back.png)
+![PCB_front](Images/pcb_front.png)
+![PCB_back](Images/pcb_back.png)
 
 ---
 
 ## Case
 
-![Case Design](images/case.png)
-![Case Design](images/case_top.png)
-![Case Design](images/case_bottom.png)
+![Case Design](Images/case.png)
+![Case Design](Images/case_top.png)
+![Case Design](Images/case_bottom.png)
 
 The case is 3D printed in 2 parts (Top + Bottom) and fits the PCB snugly with cutouts for all switches, the encoder, the OLED, knobs, and the USB-C port.
 
