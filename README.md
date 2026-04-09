@@ -1,20 +1,25 @@
 #AwesomePad
 ---
+
 #Overview
 
 This macropad was made and designed to help gamers who frequently use Discord and people who do livestreams. With 6 customizable switches, a 2U switch with push-to-talk functionality, 3 configurable knobs, and an OLED panel, it can do almost anything the user wants.
 
 ---
+
 #Schematic
 
 ---
+
 #PCB
 
 ---
+
 #Case
 
 The case is 3D printed in 2 parts (Top + Bottom) and fits the PCB snugly with cutouts for all switches, the encoder, the OLED, knobs, and the USB-C port.
 ---
+
 #BOM (Bill of Materials)
 
 #Main Components
