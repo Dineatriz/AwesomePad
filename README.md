@@ -11,22 +11,22 @@ This macropad was made and designed to help gamers who frequently use Discord an
 
 ## Schematic
 
-![Schematic](Images/schematics.png)
+![Schematic](Images/Schematics.png)
 
 ---
 
 ## PCB
 
-![PCB_front](Images/pcb_front.png)
-![PCB_back](Images/pcb_back.png)
+![PCB_front](Images/PCB_front.png)
+![PCB_back](Images/PCB_back.png)
 
 ---
 
 ## Case
 
-![Case Design](Images/case.png)
-![Case Design](Images/case_top.png)
-![Case Design](Images/case_bottom.png)
+![Case Design](Images/Case.png)
+![Case Design](Images/Case_top.png)
+![Case Design](Images/Case_bottom.png)
 
 The case is 3D printed in 2 parts (Top + Bottom) and fits the PCB snugly with cutouts for all switches, the encoder, the OLED, knobs, and the USB-C port.
 
