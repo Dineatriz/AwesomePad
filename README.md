@@ -3,7 +3,7 @@
 
 ## Overview
 
-![final](Images/Final.png)
+![final](Images/final.png)
 
 This macropad was made and designed to help gamers who frequently use Discord and people who do livestreams. With 6 customizable switches, a 2U switch with push-to-talk functionality, 3 configurable knobs, and an OLED panel, it can do almost anything the user wants.
 
